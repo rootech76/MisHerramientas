@@ -1,2 +1,10 @@
 # MisHerramientas
-está es una lista de lo que normalmente uso
+
+gromit-mpx
+obs
+tree
+nvim
+virtualbox
+tree
+python
+git
