@@ -1,10 +1,10 @@
 # MisHerramientas
 
 - gromit-mpx
-obs
-tree
-nvim
-virtualbox
-tree
-python
-git
+- obs
+- tree
+- nvim
+- virtualbox
+- tree
+- python
+- git
