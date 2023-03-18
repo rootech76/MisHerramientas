@@ -8,3 +8,6 @@
 - tree
 - python
 - git
+- discord
+- telegram
+- kdenlive
