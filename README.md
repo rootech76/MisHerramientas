@@ -13,3 +13,4 @@
 - kdenlive
 - textsnatcher
 - trillium notes
+- whimsical
