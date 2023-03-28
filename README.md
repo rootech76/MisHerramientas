@@ -11,3 +11,5 @@
 - discord
 - telegram
 - kdenlive
+- textsnatcher
+- trillium notes
