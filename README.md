@@ -1,4 +1,4 @@
-# MisHerramientas
+# Linux 
 
 - gromit-mpx
 - obs
@@ -14,3 +14,8 @@
 - textsnatcher
 - trillium notes
 - whimsical
+
+#Termux
+
+
+#Windows
