@@ -7,6 +7,7 @@
 - virtualbox
 - tree
 - python
+- go
 - git
 - discord
 - telegram
