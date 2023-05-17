@@ -1,22 +1,33 @@
-# Linux 
-
-- gromit-mpx
-- obs
-- tree
-- nvim
-- virtualbox
-- tree
+# común
 - python
-- go
-- git
-- discord
+- virtualbox/vmware
+- obs
+- nvim
 - telegram
+- discord
+- git
 - kdenlive
+- Bitwarden
+- go
+
+# Linux 
+- gromit-mpx
+- tree
 - textsnatcher
 - trillium notes
 - whimsical
-
-# Termux
-
+- youtube-dl - https://github.com/ytdl-org/youtube-dl
+- wafw00f
+- whatweb
+- netcat
+- html-tool          
 
 # Windows
+
+
+# Android
+- wps
+- vidma Record
+- Capcut
+- Twich
+- Udemy
